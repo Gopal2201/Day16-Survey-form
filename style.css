@@ -1,0 +1,48 @@
+* {
+    margin-left: 3px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    height: 100px;
+}
+table td{
+    text-align: center;
+}
+
+.Name {
+    width: 247px;
+}
+
+.userEmail {
+    width: 500px;
+}
+
+.AddCom {
+    width: 80%;
+    height: 50px;
+}
+
+.radioBut {
+    width: 40px;
+}
+
+.rowNoBG {
+    background-color: white;
+}
+
+.rowBG {
+    background-color: lightgrey;
+}
+
+#Lname {
+    padding: 225px;
+}
+
+.FLName {
+    font-size: 10px;
+}
